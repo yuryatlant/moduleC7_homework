@@ -1,0 +1,25 @@
+{
+  "name": "modulec7",
+  "version": "1.0.0",
+  "description": "json for testing functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuryatlant/moduleC7_homework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yuryatlant/moduleC7_homework/issues"
+  },
+  "homepage": "https://github.com/yuryatlant/moduleC7_homework#readme",
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.4.3",
+    "jest": "^29.4.3"
+  }
+}
